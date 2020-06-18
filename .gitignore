@@ -1,0 +1,5 @@
+.DS_Store
+assets/
+database.sqlite
+node_modules/
+uploads/
